@@ -35,6 +35,13 @@ brew search [프로그램명]
 brew search chrome  // homebrew/cask/google-chrome
 ~~~
 
+### cask 사용
+
+* 업데이트 후 필요없는 이전 버전의 패키지 삭제
+~~~
+brew cleanup
+~~~
+
 * 프로그램 설치 
 ~~~
 brew cask install [프로그램명]
@@ -51,12 +58,6 @@ brew caskk list
 ~~~
 brew cask remove karabiner-elements
 ~~~
-
-* 업데이트 후 필요없는 이전 버전의 패키지 삭제
-~~~
-brew cleanup
-~~~
-
 ---
 ## 출처
 
