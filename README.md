@@ -36,4 +36,5 @@
 
 ## 출처
 [생활코딩_ngit](https://opentutorials.org/course/3837/22434)
+
 [동빈나 Git의 동작원리](https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4)
