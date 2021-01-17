@@ -35,12 +35,12 @@ brew search [프로그램명]
 brew search chrome  // homebrew/cask/google-chrome
 ~~~
 
-### cask 사용
-
 * 업데이트 후 필요없는 이전 버전의 패키지 삭제
 ~~~
 brew cleanup
 ~~~
+
+### cask 사용
 
 * 프로그램 설치 
 ~~~
