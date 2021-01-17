@@ -34,5 +34,6 @@
 * git merge: 기존의 파일들과 충돌이 발생할 수 있기 때문에 병합하는 작업이다.
 * git pull: fetch, merge 작업을 동시에 수행
 
-출처: [생활코딩_ngit](https://opentutorials.org/course/3837/22434)
-출처: [동빈나 Git의 동작원리](https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4)
+## 출처
+[생활코딩_ngit](https://opentutorials.org/course/3837/22434)
+[동빈나 Git의 동작원리](https://www.youtube.com/watch?v=66c9QBXM2Fs&list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81&index=4)
